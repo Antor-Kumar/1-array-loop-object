@@ -1,0 +1,1 @@
+# 1-array-loop-object
